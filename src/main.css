@@ -1,0 +1,38 @@
+body{
+  margin:0;
+  font-family:Arial;
+
+}
+
+.header{
+  padding:10px;
+  background: url('http://s9.favim.com/orig/140529/artsy-beautiful-blackandwhite-city-Favim.com-1798999.jpg');
+  background-size: cover;
+
+  text-align: center;
+}
+
+.tagline{
+  padding:10px;
+  color:#2F4F4F;
+}
+
+.skills{
+  background-color:#008B8B;
+  color:white;
+  padding:10px;
+  margin:0;
+}
+
+.contact{
+  background-color:black ;
+  color:white;
+  margin-top:0;
+  padding:3px;
+  padding-left: 10px;
+}
+
+a{
+  text-decoration: none;
+  color:#20B2AA;
+}
